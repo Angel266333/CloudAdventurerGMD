@@ -2,7 +2,7 @@
 Repository for the GMD course assignment
 
 Project made with Unity version 2019.4.21f1
---------------------------------------------------------------------------------------------
+
 Used Assets:
 
 CastlePack: 
@@ -10,7 +10,7 @@ https://assetstore.unity.com/packages/3d/environments/castle-pack-by-progru-1859
 
 RustKey: 
 https://assetstore.unity.com/packages/3d/props/rust-key-167590
---------------------------------------------------------------------------------------------
+
 Script source code credits:
 
 RotationScriptCoin: 
