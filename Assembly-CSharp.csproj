@@ -60,6 +60,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\MouseLook.cs" />
      <Compile Include="Assets\Scripts\MovementScript.cs" />
+     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\RotationScriptCoin.cs" />
      <None Include="Assets\Assets\CastlePack\Prefabs\readme.txt" />
  <Reference Include="Unity.Timeline.Editor">
