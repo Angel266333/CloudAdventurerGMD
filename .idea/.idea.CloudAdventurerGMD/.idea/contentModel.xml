@@ -15,6 +15,7 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="CoinScoreScript.cs" t="Include" />
+          <e p="CollectedKeysScript.cs" t="Include" />
           <e p="MouseLook.cs" t="Include" />
           <e p="MovementScript.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
