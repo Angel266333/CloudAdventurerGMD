@@ -2169,6 +2169,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 3708495048277229565, guid: a9bb93d7928981b48ab708e4f948876a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.01
+      objectReference: {fileID: 0}
     - target: {fileID: 3822066131079954525, guid: a9bb93d7928981b48ab708e4f948876a,
         type: 3}
       propertyPath: m_Layer
@@ -2764,7 +2769,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   vSpeed: 5
-  xSpeed: 1.5
+  xSpeed: 1
   height: 5
   vMovement: 0
   xMovement: 1
