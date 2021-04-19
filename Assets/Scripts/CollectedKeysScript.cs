@@ -1,6 +1,8 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+
 
 public class CollectedKeysScript : MonoBehaviour
 {
@@ -24,6 +26,8 @@ public class CollectedKeysScript : MonoBehaviour
             //Add 1 to points.
             Destroy(gameObject); // This destroys the key.
         }
-    }
-    
+            
+        }
+ 
 }
+    

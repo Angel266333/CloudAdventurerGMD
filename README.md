@@ -11,6 +11,12 @@ https://assetstore.unity.com/packages/3d/environments/castle-pack-by-progru-1859
 RustKey: 
 https://assetstore.unity.com/packages/3d/props/rust-key-167590
 
+Simple Gems Ultimate Animated Customizable Pack:
+https://assetstore.unity.com/packages/3d/props/simple-gems-ultimate-animated-customizable-pack-73764
+
+Toony Tiny RTS Demo:
+https://assetstore.unity.com/packages/3d/characters/toony-tiny-rts-demo-141705
+
 Script source code credits:
 
 MovementScript: 
