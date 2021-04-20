@@ -24,6 +24,7 @@
         <e p="Scripts" t="Include">
           <e p="CoinScoreScript.cs" t="Include" />
           <e p="CollectedKeysScript.cs" t="Include" />
+          <e p="LevelFallOutDetect.cs" t="Include" />
           <e p="MainMenuController.cs" t="Include" />
           <e p="MouseLook.cs" t="Include" />
           <e p="MovementScript.cs" t="Include" />
