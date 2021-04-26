@@ -19,7 +19,7 @@ public class LevelFallOutDetect : MonoBehaviour
     {
         if (player.transform.position.y < -5f)
         {
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }  
     }
 }
