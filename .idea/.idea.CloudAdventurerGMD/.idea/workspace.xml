@@ -3,19 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="3fe14d6e-97a2-4bcd-bc12-63ece74a0b29" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CloudAdventurerGMD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CloudAdventurerGMD/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelFallOutDetect.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LevelFallOutDetect.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CollectedKeysScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CollectedKeysScript.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/2e/2e4bad2c00cb2d9a5890302e6d37444f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/32/3206fb4a5e586a34d3fa2acfa02fa5f6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/7b/7b695548f33c209f36797a728d898a89" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/7e/7e212b39018ff8970ac13d61cddb9f07" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/96/963847a63a4385d0120d90354c0e60a5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a5/a54f56e208bc1680ac2f32decec6e207" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/41/41c351e0c443bddea076e2d43d8a869a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/77/77295df64f3f8f123143273e13c503bf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/7d/7df15ba869a5bf137444ba99d38d651c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/92/928389cbeb29d0fc199335f50e4cda9e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/9d/9deef048bfb3917f754e114a2e5f54bd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b9/b988e8c46c97abaef0fe5b9016555b98" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/cc/cc970e9d49188e27b2279d731edb3fef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ea/ea0cccf2f8316addf8cb573d9eb2bf4b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ea/ea7bf154edf6d1786028dd3db4c9f2b0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/46b7a0-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/46b7a0-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/d69a67-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/d69a67-mainStage.json" afterDir="false" />
@@ -46,10 +47,10 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/KeyScoreScript.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScoreScript.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/MainMenuController.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/CollectedKeysScript.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/ProgressToNextLevel.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/LevelFallOutDetect.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CollectedKeysScript.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1q18geeegn3TSeyLJuRtSDjY8u8" />
@@ -102,6 +103,7 @@
       <workItem from="1618755257494" duration="2107000" />
       <workItem from="1618916892081" duration="1337000" />
       <workItem from="1619007292945" duration="2980000" />
+      <workItem from="1619439356703" duration="349000" />
     </task>
     <servers />
   </component>

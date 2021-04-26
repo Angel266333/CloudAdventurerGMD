@@ -24,10 +24,9 @@ public class CollectedKeysScript : MonoBehaviour
         {
             other.GetComponent<PlayerScoreScript>().keys++;
             //Add 1 to points.
-            Destroy(gameObject); // This destroys the key.
+            Destroy(gameObject); // This destroys the key and the fence.
         }
-            
-        }
+    }
  
 }
     
