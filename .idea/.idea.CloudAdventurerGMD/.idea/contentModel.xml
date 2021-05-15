@@ -32,6 +32,7 @@
           <e p="PlayerScoreScript.cs" t="Include" />
           <e p="ProgressToNextLevel.cs" t="Include" />
           <e p="RotationScriptCoin.cs" t="Include" />
+          <e p="Victory.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Fonts" t="Include">

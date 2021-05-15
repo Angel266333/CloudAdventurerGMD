@@ -21,7 +21,6 @@
       <Path>Logs</Path>
       <Path>Temp</Path>
       <Path>TemplateData</Path>
-      <Path>WebGL</Path>
       <Path>obj</Path>
     </explicitExcludes>
   </component>
