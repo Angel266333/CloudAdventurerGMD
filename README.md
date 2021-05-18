@@ -1,7 +1,12 @@
 # CloudAdventurerGMD
 Repository for the GMD course assignment
-
 Project made with Unity version 2019.4.21f1
+
+Link to YouTube game presentation:
+https://www.youtube.com/watch?v=DgPjbAUPghU
+
+Link to WebGL build of game:
+https://angel266333.github.io/CloudAdventurerGMD/
 
 Used Assets:
 
