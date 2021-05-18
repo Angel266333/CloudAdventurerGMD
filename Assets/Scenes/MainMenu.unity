@@ -433,7 +433,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15, y: -186}
+  m_AnchoredPosition: {x: 15, y: -210}
   m_SizeDelta: {x: 303.86722, y: 95.1688}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &390345757
@@ -572,7 +572,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 44.9, y: -42}
+  m_AnchoredPosition: {x: 44.9, y: -19}
   m_SizeDelta: {x: 375.6585, y: 84.26993}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &454602256
@@ -596,7 +596,9 @@ MonoBehaviour:
       m_Calls: []
   m_text: In order to progress between levels, the player must jump between the cloud
     platforms and find the hidden keys in order to unlock the gate to the next level.
-    On the way, he is also able to collect coins that increase his score
+    On the way, he is also able to collect coins that increase his score. There are
+    three levels to progress through. Use the WASD keys plus SPACEBAR to move the
+    character!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
